@@ -1,0 +1,10 @@
+langchain
+python-dotenv
+requests
+langchain_community
+pypdf
+pypdf2
+bs4
+wikipedia
+langchain_text_splitters
+PyMuPDFLoader
